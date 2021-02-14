@@ -1,0 +1,16 @@
+/home/lmx/Desktop/project/pj1/bin/Debug/net5.0/pj1
+/home/lmx/Desktop/project/pj1/bin/Debug/net5.0/pj1.deps.json
+/home/lmx/Desktop/project/pj1/bin/Debug/net5.0/pj1.runtimeconfig.json
+/home/lmx/Desktop/project/pj1/bin/Debug/net5.0/pj1.runtimeconfig.dev.json
+/home/lmx/Desktop/project/pj1/bin/Debug/net5.0/pj1.dll
+/home/lmx/Desktop/project/pj1/bin/Debug/net5.0/ref/pj1.dll
+/home/lmx/Desktop/project/pj1/bin/Debug/net5.0/pj1.pdb
+/home/lmx/Desktop/project/pj1/obj/Debug/net5.0/pj1.csprojAssemblyReference.cache
+/home/lmx/Desktop/project/pj1/obj/Debug/net5.0/pj1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lmx/Desktop/project/pj1/obj/Debug/net5.0/pj1.AssemblyInfoInputs.cache
+/home/lmx/Desktop/project/pj1/obj/Debug/net5.0/pj1.AssemblyInfo.cs
+/home/lmx/Desktop/project/pj1/obj/Debug/net5.0/pj1.csproj.CoreCompileInputs.cache
+/home/lmx/Desktop/project/pj1/obj/Debug/net5.0/pj1.dll
+/home/lmx/Desktop/project/pj1/obj/Debug/net5.0/ref/pj1.dll
+/home/lmx/Desktop/project/pj1/obj/Debug/net5.0/pj1.pdb
+/home/lmx/Desktop/project/pj1/obj/Debug/net5.0/pj1.genruntimeconfig.cache
